@@ -1,0 +1,26 @@
+id: IF4C4BF01
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-SS-26
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  author: མཛད་པ་པོ། རྗེ་དགུ་པ་དབང་ཕྱུག་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། རྗེ་དགུ་པ་དབང་ཕྱུག་རྡོ་རྗེ།
+  sku: RDI-SS-26
+  cover: RDI-SS-26.jpeg
+  volume: {}
+ebook_metadata:
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  authors: *id001
+  sku: RDI-SS-26
+  cover: RDI-SS-26.jpeg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
