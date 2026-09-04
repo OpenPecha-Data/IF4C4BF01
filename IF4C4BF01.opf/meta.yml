@@ -2,15 +2,16 @@ id: IF4C4BF01
 initial_creation_type: ebook
 source_metadata:
   id: RDI-SS-26
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: ཕྱག་ཆེན་རྒྱས་འབྲིང་བསྡུས་གསུམ།
   author: མཛད་པ་པོ། རྗེ་དགུ་པ་དབང་ཕྱུག་རྡོ་རྗེ།
   authors: &id001
   - མཛད་པ་པོ། རྗེ་དགུ་པ་དབང་ཕྱུག་རྡོ་རྗེ།
   sku: RDI-SS-26
   cover: RDI-SS-26.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: ཕྱག་ཆེན་རྒྱས་འབྲིང་བསྡུས་གསུམ།
   authors: *id001
   sku: RDI-SS-26
   cover: RDI-SS-26.jpeg
